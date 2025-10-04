@@ -34,7 +34,7 @@ These servers run on the same infrastructure as blacksky.app and are maintained 
 
 Additional community-run PDSs you might consider:
 
-* [**transrights.northsky.social**](https://northskysocial.com/join) - 2SLGBTQIA+ community
+* [transrights.northsky.social](https://northskysocial.com/join) - 2SLGBTQIA+ community
 * [pds.witchcraft.systems](https://pds.witchcraft.systems/) - contact directly for invite
 * [selfhosted.social](https://selfhosted.social/) - contact directly for invite
 
