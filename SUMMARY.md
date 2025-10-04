@@ -9,3 +9,4 @@
 * [About rsky](about-rsky/README.md)
   * [Deploying the Rsky Relay](about-rsky/deploying-the-rsky-relay.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
+* [Migrating to Blacksky PDS: Complete Guide](migrating-to-blacksky-pds-complete-guide.md)
