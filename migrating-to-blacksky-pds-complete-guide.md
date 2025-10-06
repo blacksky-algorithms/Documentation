@@ -30,6 +30,8 @@ Blacksky Algorithms also operates two other PDSs that are **open to anyone**:
 
 These servers run on the same infrastructure as blacksky.app and are maintained by the same team, but are available for anyone to use regardless of background.
 
+💡 **Note:** whether your handle is _username.myatproto.social_ or _username.cryptoanarchy.network_ you must still enter "https://blacksky.app" as your hosting provider when logging into apps that request a "Hosting Provider" such as the Bluesky mobile apps.
+
 #### Other Community Options
 
 Additional community-run PDSs you might consider:
