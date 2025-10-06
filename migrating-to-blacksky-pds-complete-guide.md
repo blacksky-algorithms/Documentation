@@ -137,12 +137,21 @@ If you want to switch between handle options (blacksky.app, myatproto.social, cr
 * Visit [pdsmoover.com/turnoff.html](https://pdsmoover.com/turnoff.html)
 * Deactivate your old account using old credentials
 
-#### Migration tool showing errors
+#### Getting message to reactivate my account
+
+* Your account migration hasn't completed if you didn't enter the PLC token into the migration tool you were using. Go back and complete the migration.
+
+#### I never got a PLC token email
+
+Make sure your current email in the Bluesky app is verified and that you have access to it. Also check spam. If you no longer have access to the email you used to sign up with Bluesky, contact support@bsky.app to get it updated. **You need a verified email that you have access to in order to complete the migration.**
+
+#### Migration tool showing other errors (unable to resolve handle)
 
 * Make sure you typed handles manually (no copy/paste)
 * Check for typos in old or new handle
 * Old handle format: `name.bsky.social`
 * New handle format: `name.blacksky.app` (or myatproto.social, cryptoanarchy.network)
+* Try using incognito on Google Chrome using a laptop/desktop machine
 
 #### Need more help?
 
