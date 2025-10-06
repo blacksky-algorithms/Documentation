@@ -130,7 +130,9 @@ If you want to switch between handle options (blacksky.app, myatproto.social, cr
 * Uncheck "create account"
 * Complete the migration
 
-#### Images not loading after migration
+#### Images not loading after migration OR can't update profile (missing blobs)
+
+In AT Protocol, blobs (Binary Large OBjects) are your media (images, video, etc.).
 
 * Use [missing.pdsmoover.com](https://missing.pdsmoover.com/) to fix image backfill
 
