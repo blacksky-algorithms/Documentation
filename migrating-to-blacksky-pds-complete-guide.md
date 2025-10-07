@@ -85,7 +85,7 @@ Two tools are available for migration:
 3. **Enter Account Information**
    * **Old handle**: Your current handle (e.g., `alice.bsky.social`)
    * **New handle**: Your desired new handle (e.g., `alice.blacksky.app`)
-   * ⚠️ **Important**: Type these out manually, don't copy/paste (invisible characters can cause issues)
+   * ⚠️ **Important**: Type these out manually, don't copy/paste (invisible characters can cause issues. If you get invalid handle errors, this is likely why.)
 4. **Advanced Options** (if needed)
    * If migration fails to complete when using pdsmoover.com, click "Advanced Options"
    * Uncheck "create account"
