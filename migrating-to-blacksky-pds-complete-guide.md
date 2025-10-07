@@ -11,7 +11,9 @@ description: >-
 
 Blacksky is communal infrastructure for the atproto network, built on the vision of making communal practices of mutual aid a normal practice. All code is open source and operates with complete transparency.
 
-**Important**: Blacksky as a community exists across multiple PDSs (Personal Data Servers) — this is intentional and by design.
+**Important**: Blacksky as a community exists across multiple PDSs (Personal Data Servers) — this is intentional and by design.&#x20;
+
+Also note that new users without an existing Bluesky or Blacksky account can easily sign up directly at [https://blacksky.community](https://blacksky.community/) to be hosted on one of our PDSs. The remainder of this document discusses migrating an existing account hosted elsewhere (Bluesky, another 3rd-party PDS, etc.)
 
 ### Who Can Use Blacksky Services?
 
