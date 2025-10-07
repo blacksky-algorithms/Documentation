@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [List of our services](list-of-our-services.md)
 * [Info about Blacksky The Community](info-about-blacksky-the-community/README.md)
   * [Blacksky Moderation](info-about-blacksky-the-community/blacksky-moderation.md)
   * [Blacksky Feeds and Hashtags](info-about-blacksky-the-community/blacksky-feeds-and-hashtags.md)
