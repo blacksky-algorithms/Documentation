@@ -111,7 +111,7 @@ For a video guide on these steps, check out Sharpie's post [here](https://blacks
 
 #### Post-Migration Steps
 
-**Fix Old Account Issues**
+**Fix Old Account Issues:**&#x20;
 
 If people can't reply to you after migration:
 
@@ -129,6 +129,14 @@ If images from before your migration aren't showing or you're having issues edit
 2. Follow the instructions to backfill your images
 
 <figure><img src=".gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
+
+**Restore Backups and other PDS Issues:**
+
+You can now use PDS Moover to take care of the items listed above and also restore your data. You can find more detailed information from Bailey here:
+
+{% embed url="https://pdsmoover.com/" %}
+
+<figure><img src=".gitbook/assets/atproto_images.png" alt=""><figcaption></figcaption></figure>
 
 **Change Your Handle Domain**
 
