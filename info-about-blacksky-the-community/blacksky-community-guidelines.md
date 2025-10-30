@@ -172,7 +172,7 @@ If you see content that violates these guidelines:\
 
 Mass reporting or weaponizing the report system to harass users will result in action against your account.
 
-You can learn more about [Blacksky's moderation practices here](https://docs.blacksky.community/info-about-blacksky-the-community/blacksky-moderation). All users and services on the AT Protocol can also [subscribe to Blacksky's Moderation labeler](https://blacksky.community/profile/blackskyweb.xyz).
+You can learn more about [Blacksky's moderation practices here](blacksky-moderation.md). All users and services on the AT Protocol can also [subscribe to Blacksky's Moderation labeler](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf).
 
 #### Appeals
 
