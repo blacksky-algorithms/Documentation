@@ -138,7 +138,7 @@ You can now use PDS Moover to take care of the items listed above and also resto
 
 <figure><img src=".gitbook/assets/atproto_images.png" alt=""><figcaption></figcaption></figure>
 
-**Change Your Handle Domain**
+#### **Change Your Handle Domain**
 
 If you want to switch between handle options (blacksky.app, myatproto.social, cryptoanarchy.network) or use your own custom domain:
 
