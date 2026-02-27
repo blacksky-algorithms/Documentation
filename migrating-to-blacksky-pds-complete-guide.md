@@ -84,7 +84,7 @@ Two tools are available for migration:
 
 * [**pdsmoover.com**](https://pdsmoover.com/) - Alternative option with additional troubleshooting tools
 
-<figure><img src=".gitbook/assets/screencapture-pdsmoover-2025-10-09-11_25_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/screencapture-pdsmoover-moover-blacksky-app-2026-02-10-15_52_04-edit.png" alt=""><figcaption></figcaption></figure>
 
 
 

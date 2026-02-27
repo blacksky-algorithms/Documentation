@@ -4,13 +4,11 @@ Any content labeled by Bluesky's AI-based labeler is automatically filtered out 
 
 Labels (defined by Bluesky) are annotations on users and content. They can be used to hide, warn, and categorize posts and users on the network.&#x20;
 
-Blacksky has its own independent moderation service, The Blacksky Moderation Service,  that is used to mitigate the harm that Black users experience on Bluesky via the [Blacksky Moderation Service](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf). \
-
+Blacksky has its own independent moderation service, The Blacksky Moderation Service,  that is used to mitigate the harm that Black users experience on Bluesky via the [Blacksky Moderation Service](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf). <br>
 
 You have to **subscribe** to the moderation service via Bluesky unless you are using the web app [blacksky.community](https://blacksky.community). Our moderation service is automatically built into our web app.
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-d2mkddsbmnrgr3domzg5qexf-2025-10-28-11_35_11-edit.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,8 +58,7 @@ Subscriptions to labelers are private –  other users will not know you are sub
 
 #### **Anti-Black Harassment**
 
-This category covers any harassing, abusive, or dehumanizing content targeting Black people. It includes:\
-
+This category covers any harassing, abusive, or dehumanizing content targeting Black people. It includes:<br>
 
 * **Racial Slurs**\
   Any derogatory term for Black individuals (e.g. the N-word). Use of these slurs directed at a person or group is an automatic violation
@@ -76,8 +73,7 @@ This category covers any harassing, abusive, or dehumanizing content targeting B
 
 
 * **Threats or Violent Wishes**\
-  Calls for violence against Black people or threats directed at Black individuals\
-
+  Calls for violence against Black people or threats directed at Black individuals<br>
 
 Immediate escalation to Blacksky Admin is typical, as threats violate base community standards
 
@@ -99,8 +95,7 @@ Sometimes slurs appear in non-harassing contexts:
 
 #### **Misogynoir**&#x20;
 
-Misogynoir is the intersection of anti-black racism and sexism targeting Black women and Black nonbinary, agender, and gender-variant folks Black women, often involving specific stereotypes or tropes:\
-
+Misogynoir is the intersection of anti-black racism and sexism targeting Black women and Black nonbinary, agender, and gender-variant folks Black women, often involving specific stereotypes or tropes:<br>
 
 * Gendered slurs or insults aimed at Black women
 * Tropes like the “angry Black woman,” hypersexualization, or remarks that Black women are undesirable because they are Black

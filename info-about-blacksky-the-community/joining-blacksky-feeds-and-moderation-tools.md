@@ -44,7 +44,7 @@ This is another example post
 {% step %}
 ### Open the Bluesky app
 
-Go to the [Bluesky](broken-reference) app.
+Go to the [Bluesky](/broken/pages/0a9024feb301e4449430e3411ff646d456905716) app.
 {% endstep %}
 
 {% step %}

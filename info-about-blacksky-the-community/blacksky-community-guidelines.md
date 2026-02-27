@@ -60,8 +60,7 @@ Content or behavior that is illegal is prohibited. We report child sexual abuse 
 
 #### Hate Conduct
 
-We have zero tolerance for hate speech and discrimination:\
-
+We have zero tolerance for hate speech and discrimination:<br>
 
 * **White Supremacy:** White supremacist content, ideology, or rhetoric results in immediate, permanent bans with no appeals
 * **Anti-Black Racism:** Any form of anti-Blackness, including internalized anti-Blackness, colorism, and discrimination based on skin tone
@@ -110,8 +109,7 @@ We have zero tolerance for hate speech and discrimination:\
 
 #### Adult Content
 
-Adult content is permitted on Blacksky with appropriate labeling:\
-
+Adult content is permitted on Blacksky with appropriate labeling:<br>
 
 * Mark NSFW (not safe for work) content appropriately
 * Nudity in cultural, artistic, or educational contexts is protected
@@ -120,8 +118,7 @@ Adult content is permitted on Blacksky with appropriate labeling:\
 
 #### Commercial Activity
 
-Black-owned businesses are welcome on Blacksky with clear identification:\
-
+Black-owned businesses are welcome on Blacksky with clear identification:<br>
 
 * Commercial accounts must clearly identify themselves
 * Excessive promotional content may be restricted
@@ -142,11 +139,9 @@ We encourage practices that make Blacksky accessible to all:
 
 #### Our Approach
 
-Blacksky's moderation team prioritizes Black moderators who understand our cultural contexts and includes diverse representation across queer, trans, and disabled Black experiences throughout the diaspora.\
+Blacksky's moderation team prioritizes Black moderators who understand our cultural contexts and includes diverse representation across queer, trans, and disabled Black experiences throughout the diaspora.<br>
 
-
-We use a graduated approach to enforcement:\
-
+We use a graduated approach to enforcement:<br>
 
 * **Immediate Permanent Bans:** White supremacy, CSAM, digital blackface, severe threats
 * **Warnings:** First-time guideline violations
@@ -160,8 +155,7 @@ Context matters. We consider intent, cultural context, and community harm when m
 
 #### Reporting
 
-If you see content that violates these guidelines:\
-
+If you see content that violates these guidelines:<br>
 
 1. Use the report button on the post or account
 2. Select the most relevant category
@@ -176,8 +170,7 @@ You can learn more about [Blacksky's moderation practices here](blacksky-moderat
 
 #### Appeals
 
-You may appeal most moderation decisions:\
-
+You may appeal most moderation decisions:<br>
 
 * Submit an appeal through the platform
 * A different moderator will review your appeal
@@ -234,8 +227,7 @@ Communities on Blacksky infrastructure must:
 
 
 
-Subcommunities may:\
-
+Subcommunities may:<br>
 
 * Set their own specific membership criteria
 * Create their own posting rules within our framework
@@ -248,8 +240,7 @@ Subcommunities may:\
 
 ### 7. Our Commitment
 
-These guidelines prioritize serving users over profit motives. They are living documents that evolve with our community:\
-
+These guidelines prioritize serving users over profit motives. They are living documents that evolve with our community:<br>
 
 * Regular Review: Guidelines are reviewed annually
 * Community Input: Major changes are discussed through [People's Assemblies](https://assembly.blacksky.community/)
@@ -270,4 +261,4 @@ These guidelines prioritize serving users over profit motives. They are living d
 
 These guidelines were developed through the [Blacksky People's Assembly](https://assembly.blacksky.community/), with input from 645 community members who shaped the vision for this platform. This is what we chose. This is what we built. This is who we are.
 
-\
+<br>
