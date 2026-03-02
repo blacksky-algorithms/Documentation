@@ -8,6 +8,7 @@
   * [Blacksky Feeds and Hashtags](info-about-blacksky-the-community/blacksky-feeds-and-hashtags.md)
   * [Joining Blacksky Feeds and Moderation Tools](info-about-blacksky-the-community/joining-blacksky-feeds-and-moderation-tools.md)
   * [Curating Your Experience](info-about-blacksky-the-community/curating-your-experience.md)
+  * [The Blacksky Web App](info-about-blacksky-the-community/the-blacksky-web-app.md)
 * [About rsky](about-rsky/README.md)
   * [Deploying the Rsky Relay](about-rsky/deploying-the-rsky-relay.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
