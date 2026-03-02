@@ -14,9 +14,10 @@ description: >-
 * [@moderation.blacksky.app](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf) → **Moderation Service** Custom moderation labeler that applies community-determined guidelines independent of Bluesky's moderation policies. Users can subscribe to this service to receive Blacksky's content labels. Promotes independence by allowing communities to define their own safety standards.
 * [@tektite.cc](https://blacksky.community/profile/did:plc:tkpi67nipaoa4ocw5cn24ukg) → **Migration Tool** Simplifies the process of migrating accounts from Bluesky's PDS to Blacksky's hosting (or other providers) without losing followers, posts, or identity. Promotes independence by making it easy for users to leave Bluesky's hosting while maintaining their social presence.
 * [https://assembly.blacksky.community](https://assembly.blacksky.community/) → **Governance Platform** A self-hosted instance of Polis for democratic decision-making where community members collaboratively develop guidelines, vote on features, and shape Blacksky's policies. Promotes independence through community-led governance rather than top-down corporate control.
-* [https://blackskyweb.xyz](https://blackskyweb.xyz/) → **Marketing Website** The main informational site explaining Blacksky's vision, services, and how they promote community-led growth on AT Protocol. Also federated via activity pub ([@atproto\_rocks@blackskyweb.xyz](https://mastodon.social/@atproto_rocks@blackskyweb.xyz)).
+* [https://blackskyweb.xyz](https://blackskyweb.xyz/) → **Marketing Website** The main informational site explaining Blacksky's vision, services, and how they promote community-led growth on AT Protocol. The marketing account is [@blackskyweb.xyz](https://blacksky.community/profile/did:plc:kta7dqcqoamo5ixlajxbtjps). Also federated via activity pub ([@atproto\_rocks@blackskyweb.xyz](https://mastodon.social/@atproto_rocks@blackskyweb.xyz)).&#x20;
 * [https://satnav.rsky.dev](https://satnav.rsky.dev/) → **Exported Data Explorer** Tool for exploring CAR files (Content Addressable aRchives) - your exported AT Protocol data. Makes user data portable and human-readable. Promotes independence by ensuring users can access and understand their own data outside of any platform.
 * [https://docs.blacksky.community](https://docs.blacksky.community/) → **Documentation Site** Comprehensive guides and technical documentation for using Blacksky's services, migrating accounts, and understanding AT Protocol infrastructure.
+* [https://api.blacksky.community](https://api.blacksky.community/) -> A complete Bluesky-compatible API server with support for for private/community-only content.&#x20;
 
 ### Additional PDS Handles Hosted by Blacksky
 
@@ -25,10 +26,7 @@ description: >-
 
 ## On the Roadmap (Not Yet Built)
 
-* **One-Click PDS Hosting Service** - Will enable non-technical users to easily launch and manage their own Personal Data Servers, making it simpler for new communities to establish independence.
+* **blacksky.tech** - Will enable non-technical users to easily launch and manage their own Personal Data Servers, making it simpler for new communities to establish independence.
 * **Blacksky-Only Posts (Community-Only Posts)** - Private posting space visible only to Blacksky community members, initially text-only, eventually with media support. Currently in development.
-* _app.bsky. API Server (Full AppView)_\* - A complete Bluesky-compatible API server. Will provide full independence from Bluesky's AppView for all social features.
-* _community.blacksky. API Server_\* - A specialized AppView for private/community-only content. Planned to ship after the full app.bsky.\* server.
-* **Backfill Solutions** - Working with other AT Protocol developers to create efficient backfill tools for alternate AppViews, addressing a major technical barrier to independence.
 * **iOS and Android Native Apps** - Mobile applications with Blacksky's features built-in.
 * **blacksky.cash**- Direct way for community members to financially support content creators within Blacksky.
