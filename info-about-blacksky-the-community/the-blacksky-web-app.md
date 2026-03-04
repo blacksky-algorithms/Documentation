@@ -42,17 +42,18 @@ Currently, there may be pages that do not have blobs (profile images) and full f
 * If you receive a label from Bluesky moderation, such as ‘rude’ or ‘sexual content’, it will appear on our web app, but you can appeal this via [support@blacksky.app](mailto:support@blacksky.app), and we will investigate it against our own moderation and remove the label on your account via our web app (if you are on our PDS).&#x20;
 
 \
-**Things to Remember:**
+**Things to Remember**
+----------------------
 
-**Bookmarks, Drafts, and Mutes**
+#### **Bookmarks, Drafts, and Mutes**
 
 * Bookmarks, Drafts, and Mutes on the Blacksky Web App differ from your Bluesky app ones. You will need to redo these functions within the Blacksky Web App. This data is private and thus specific to which app you're logging into.
 
-**Blocks**
+#### **Blocks**
 
 * Blocks are universal across all apps. This means that if you had someone blocked on Bluesky, then they are also blocked on Blacksky.&#x20;
 
-**DMS**
+#### **DMs**
 
 * If you have been banned from Bluesky but are unbanned in our web app, you do not have access to DMs because they are Bluesky-specific and closed-source. We encourage you to use [Germ](https://blacksky.community/profile/did:plc:4yvwfwxfz5sney4twepuzdu7) as an alternative to be able to talk privately with those on our web app.
 
