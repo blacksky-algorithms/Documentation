@@ -82,7 +82,7 @@ Two tools are available for migration:
 
 <figure><img src=".gitbook/assets/screencapture-tektite-cc-2025-10-09-11_24_40.png" alt=""><figcaption></figcaption></figure>
 
-* [**pdsmoover.com**](https://pdsmoover.com/) - Alternative option with additional troubleshooting tools
+* [**pdsmoover.com**](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app) - Alternative option with additional troubleshooting tools
 
 <figure><img src=".gitbook/assets/screencapture-pdsmoover-moover-blacksky-app-2026-02-10-15_52_04-edit.png" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +94,7 @@ Two tools are available for migration:
    * For Blacksky community members: `username.blacksky.app`
    * For everyone else: `username.myatproto.social` or `username.cryptoanarchy.network`
 2. **Go to Migration Tool**
-   * Visit [tektite.cc](https://tektite.cc/) or [pdsmoover.com](https://pdsmoover.com/)
+   * Visit [tektite.cc](https://tektite.cc/) or [pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
 3. **Enter Account Information**
    * **Old handle**: Your current handle (e.g., `alice.bsky.social`)
    * **New handle**: Your desired new handle (e.g., `alice.blacksky.app`)
@@ -125,7 +125,7 @@ If people can't reply to you after migration:
 
 If images from before your migration aren't showing or you're having issues editing your profile:
 
-1. Visit [missing.pdsmoover.com](https://missing.pdsmoover.com/)
+1. Visit [missing.pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
 2. Follow the instructions to backfill your images
 
 <figure><img src=".gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
@@ -134,7 +134,7 @@ If images from before your migration aren't showing or you're having issues edit
 
 You can now use PDS Moover to take care of the items listed above and also restore your data. You can find more detailed information from Bailey here:
 
-{% embed url="https://pdsmoover.com/" %}
+{% embed url="https://pdsmoover.com/moover/blacksky.app" %}
 
 <figure><img src=".gitbook/assets/atproto_images.png" alt=""><figcaption></figcaption></figure>
 
@@ -161,13 +161,13 @@ If you want to switch between handle options (blacksky.app, myatproto.social, cr
 
 In AT Protocol, blobs (Binary Large OBjects) are your media (images, video, etc.).
 
-* Use [missing.pdsmoover.com](https://missing.pdsmoover.com/) to fix image backfill
+* Use [missing.pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app) to fix the image backfill
 
 <figure><img src=".gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
 
 #### People can't reply to your posts
 
-* Visit [pdsmoover.com/turnoff.html](https://pdsmoover.com/turnoff.html)
+* Visit [pdsmoover.com/turnoff.html](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
 * Deactivate your old account using old credentials
 
 <figure><img src=".gitbook/assets/screencapture-pdsmoover-turnoff-html-2025-10-09-11_25_50.png" alt=""><figcaption></figcaption></figure>
@@ -178,7 +178,7 @@ In AT Protocol, blobs (Binary Large OBjects) are your media (images, video, etc.
 
 #### I never got a PLC token email
 
-Make sure your current email in the Bluesky app is verified and that you have access to it. Also check spam. If you no longer have access to the email you used to sign up with Bluesky, contact support@bsky.app to get it updated. **You need a verified email that you have access to in order to complete the migration.**
+Make sure your current email in the Bluesky app is verified and that you have access to it. Also, check spam. If you no longer have access to the email you used to sign up with Bluesky, contact support@bsky.app to get it updated. **You need a verified email that you have access to in order to complete the migration.**
 
 #### Migration tool showing other errors (unable to resolve handle)
 
