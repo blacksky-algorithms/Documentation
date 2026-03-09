@@ -78,7 +78,7 @@ If you want to move your account hosting to one of Blacksky's PDSs, follow these
 
 Two tools are available for migration:
 
-* [**tektite.cc**](https://tektite.cc/) - Built and maintained by the Blacksky team
+* [**move.blacksky.community**](https://move.blacksky.community/) - Built and maintained by the Blacksky team
 
 <figure><img src=".gitbook/assets/screencapture-tektite-cc-2025-10-09-11_24_40.png" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +94,7 @@ Two tools are available for migration:
    * For Blacksky community members: `username.blacksky.app`
    * For everyone else: `username.myatproto.social` or `username.cryptoanarchy.network`
 2. **Go to Migration Tool**
-   * Visit [tektite.cc](https://tektite.cc/) or [pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
+   * Visit [move.blacksky.community](https://move.blacksky.community/) or [pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
 3. **Enter Account Information**
    * **Old handle**: Your current handle (e.g., `alice.bsky.social`)
    * **New handle**: Your desired new handle (e.g., `alice.blacksky.app`)
