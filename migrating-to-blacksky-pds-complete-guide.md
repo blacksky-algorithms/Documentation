@@ -69,47 +69,52 @@ If you want to move your account hosting to one of Blacksky's PDSs, follow these
 
 #### What Migration Does
 
-* Moves your account hosting from Bluesky PBC to Blacksky (or another PDS)
-* Puts you under Blacksky's [Terms of Service](https://blackskyweb.xyz/about/support/tos/) and [Privacy Policy](https://blackskyweb.xyz/about/support/privacy-policy/) instead of Bluesky's
+* Moves your account hosting from elsewhere (like Bluesky) to Blacksky (or another PDS)
+
+<figure><img src=".gitbook/assets/screencapture-blackskymunity-profile-did-plc-w4xbfzo7kqfes5zb7r6qv3rw-post-3mh6kr3w2o22a-2026-03-17-11_58_32-edit.png" alt=""><figcaption></figcaption></figure>
+
+* Puts you under Blacksky's [Terms of Service](https://blackskyweb.xyz/about/support/tos/) and [Privacy Policy](https://blackskyweb.xyz/about/support/privacy-policy/)
 * **You keep all your followers, follows, posts, and data**
-* You can change your handle (e.g., from `name.bsky.social` to `name.blacksky.app`)
+* Your handle will change (e.g., from `name.bsky.social` to `name.blacksky.app` ). If you use a custom domain as your handle, that will stay the same.
 
-#### Migration Tools
+#### Migration Tool:
 
-Two tools are available for migration:
+You can use [**move.blacksky.community**](https://move.blacksky.community/) to migrate which was built and is maintained by the Blacksky team
 
-* [**move.blacksky.community**](https://move.blacksky.community/) - Built and maintained by the Blacksky team
+Here is a walk-through video:&#x20;
 
-<figure><img src=".gitbook/assets/screencapture-tektite-cc-2025-10-09-11_24_40.png" alt=""><figcaption></figcaption></figure>
-
-* [**pdsmoover.com**](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app) - Alternative option with additional troubleshooting tools
-
-<figure><img src=".gitbook/assets/screencapture-pdsmoover-moover-blacksky-app-2026-02-10-15_52_04-edit.png" alt=""><figcaption></figcaption></figure>
-
-
+{% embed url="https://www.youtube.com/watch?v=Oz4OPzTQXzI" %}
 
 #### Step-by-Step Migration
 
-1. **Choose Your New Handle**
-   * For Blacksky community members: `username.blacksky.app`
-   * For everyone else: `username.myatproto.social` or `username.cryptoanarchy.network`
-2. **Go to Migration Tool**
-   * Visit [move.blacksky.community](https://move.blacksky.community/) or [pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
-3. **Enter Account Information**
-   * **Old handle**: Your current handle (e.g., `alice.bsky.social`)
-   * **New handle**: Your desired new handle (e.g., `alice.blacksky.app`)
+1. **Go to** [move.blacksky.community](https://move.blacksky.community/)&#x20;
+2. **Enter Account Information**
+   * **Current handle**: Your current handle (e.g., `alice.bsky.social`  or `rudyfraser.com` )
+   * **New handle**:&#x20;
+     * For Blacksky community members: `username.blacksky.app`
+     * For everyone else: `username.myatproto.social` or `username.cryptoanarchy.network`
    * ⚠️ **Important**: Type these out manually, don't copy/paste (invisible characters can cause issues. If you get invalid handle errors, this is likely why.)
-4. **Advanced Options** (if needed)
-   * If migration fails to complete when using pdsmoover.com, click "Advanced Options"
-   * Uncheck "create account"
-   * Try again
-5. **Complete Migration**
+3. **Complete Migration**
    * Follow the prompts
    * Wait for the migration to complete
+   * You will receive a confirmation email once it has been completed
 
-For a video guide on these steps, check out Sharpie's post [here](https://blacksky.community/profile/did:plc:g7j6qok5us4hjqlwjxwrrkjm/post/3lw3hcuojck2u).
+
+
+⚠️ If you are unable to migrate with our migration tool, you can also use [PDS MOOVER.](https://pdsmoover.com/moover/blacksky.app) For a video guide on these steps, check out Sharpie's post [here](https://blacksky.community/profile/did:plc:g7j6qok5us4hjqlwjxwrrkjm/post/3lw3hcuojck2u).
 
 #### Post-Migration Steps
+
+#### **Change Your Handle Domain**
+
+If you want to switch between handle options (blacksky.app, myatproto.social, cryptoanarchy.network) or use your own custom domain:
+
+* Visit [blacksky.community](https://blacksky.community/)
+* Log in to your account
+* Navigate to settings
+* Change your handle to any of the available options or a domain you own
+
+<figure><img src=".gitbook/assets/change_handle_Blacksky .png" alt=""><figcaption></figcaption></figure>
 
 **Fix Old Account Issues:**&#x20;
 
@@ -138,16 +143,7 @@ You can now use PDS Moover to take care of the items listed above and also resto
 
 <figure><img src=".gitbook/assets/atproto_images.png" alt=""><figcaption></figcaption></figure>
 
-#### **Change Your Handle Domain**
 
-If you want to switch between handle options (blacksky.app, myatproto.social, cryptoanarchy.network) or use your own custom domain:
-
-1. Visit [blacksky.community](https://blacksky.community/)
-2. Log in to your account
-3. Navigate to settings
-4. Change your handle to any of the available options or a domain you own
-
-<figure><img src=".gitbook/assets/change_handle_Blacksky .png" alt=""><figcaption></figcaption></figure>
 
 ### Troubleshooting
 
@@ -219,4 +215,4 @@ Make sure your current email in the Bluesky app is verified and that you have ac
 
 ***
 
-**Last Updated**: October 2025
+**Last Updated**: March 2026
