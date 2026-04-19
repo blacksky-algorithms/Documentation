@@ -95,7 +95,7 @@ Sometimes slurs appear in non-harassing contexts:
 
 #### **Misogynoir**&#x20;
 
-Misogynoir is the intersection of anti-black racism and sexism targeting Black women and Black nonbinary, agender, and gender-variant folks Black women, often involving specific stereotypes or tropes:<br>
+Misogynoir is the intersection of anti-black racism and sexism targeting Black women and Black nonbinary, agender, and gender-variant folks, often involving specific stereotypes or tropes:<br>
 
 * Gendered slurs or insults aimed at Black women
 * Tropes like the “angry Black woman,” hypersexualization, or remarks that Black women are undesirable because they are Black
