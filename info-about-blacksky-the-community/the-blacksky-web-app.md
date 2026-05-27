@@ -38,8 +38,8 @@ Currently, there may be pages that do not have blobs (profile images) and full f
 
 * Built-in moderation service (you do not have to subscribe to our moderation service via the web app). Bluesky data is viewable, but is under our moderation for the full web app, not just as a labeler or PDS moderation tool.&#x20;
 * Blacksky feed is automatically built in.
-* If your account is banned or suspended by Bluesky, our web app automatically copies that moderation decision, but if you send an email to [support@blacksky.app](mailto:support@blacksky.app) with your account information (if you are on our PDS), we will investigate the ban, and if it does not go against our TOS, you will regain immediate access to your account.&#x20;
-* If you receive a label from Bluesky moderation, such as ‘rude’ or ‘sexual content’, it will appear on our web app, but you can appeal this via [support@blacksky.app](mailto:support@blacksky.app), and we will investigate it against our own moderation and remove the label on your account via our web app (if you are on our PDS).&#x20;
+* If your account is banned or suspended by Bluesky, our web app automatically copies that moderation decision, but if you submit an [appeal](https://blackskyweb.xyz/about/support/moderation-appeal/), we will investigate the ban, and if it does not go against our TOS, you will regain immediate access to your account.&#x20;
+* If you receive a label from Bluesky moderation, such as ‘rude’ or ‘sexual content’, it will appear on our web app, but you can appeal it [here](https://blackskyweb.xyz/about/support/moderation-appeal/), and we will investigate it against our own moderation and remove the label on your account via our web app (if you are on our PDS).&#x20;
 
 \
 **Things to Remember**

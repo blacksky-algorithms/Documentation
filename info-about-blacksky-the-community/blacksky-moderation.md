@@ -40,10 +40,10 @@ Any accounts blocked by “Banned From TV” will see the following when trying 
 Labels provide additional filtering. There are three options for how you choose to view labeled content on your feed: off, warn, or hide.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-d2mkddsbmnrgr3domzg5qexf-2025-10-14-19_35_16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-moderation-blacksky-app-2026-05-27-15_07_29-edit.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Our Labeler service cannot delete content from the network; instead, moderation labels (eg. anti-black harassment) are attached to content or an account.
+Our Labeler service cannot delete content from the network; instead, moderation labels (ex., anti-black harassment) are attached to content or an account.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-bjl6uqhvsyhje7rksmami3js-2025-10-23-12_44_26 (1).png" alt=""><figcaption></figcaption></figure>
@@ -61,7 +61,7 @@ Subscriptions to labelers are private –  other users will not know you are sub
 This category covers any harassing, abusive, or dehumanizing content targeting Black people. It includes:<br>
 
 * **Racial Slurs**\
-  Any derogatory term for Black individuals (e.g. the N-word). Use of these slurs directed at a person or group is an automatic violation
+  Any derogatory term for Black individuals (ex., the N-word). Use of these slurs directed at a person or group is an automatic violation
 * Even censored/masked slurs count, including usage in hashtags or usernames
 
 
@@ -80,7 +80,7 @@ Immediate escalation to Blacksky Admin is typical, as threats violate base commu
 
 
 * **Derogatory Memes & Tropes**\
-  Images or memes evoking racist tropes (e.g. comparing Black people to apes)
+  Images or memes evoking racist tropes (ex., comparing Black people to apes)
 
 #### Ambiguous usage of slurs
 
@@ -91,11 +91,11 @@ Sometimes slurs appear in non-harassing contexts:
 * Not considered harassment. Example: “User X called me a ‘n—–’. This is not okay.”
 * We do not penalize the user for exposing the harassment
 * Black public figures using provocative language
-* If it’s not directed as harassment, we generally do not label or remove. (E.g. lyrics.)
+* If it’s not directed as harassment, we generally do not label or remove. (e.g., lyrics.)
 
 #### **Misogynoir**&#x20;
 
-Misogynoir is the intersection of anti-black racism and sexism targeting Black women and Black nonbinary, agender, and gender-variant folks Black women, often involving specific stereotypes or tropes:<br>
+Misogynoir is the intersection of anti-black racism and sexism targeting Black women and Black nonbinary, agender, and gender-variant folks, often involving specific stereotypes or tropes:<br>
 
 * Gendered slurs or insults aimed at Black women
 * Tropes like the “angry Black woman,” hypersexualization, or remarks that Black women are undesirable because they are Black
@@ -123,7 +123,7 @@ Content that expresses statements that are rooted in white supremacy and anti-bl
 
 Statements that reinforce ideas of white supremacy or anti-black rhetoric that **do not** fall under harassment. This also includes internalized anti-blackness that is harmful in nature.&#x20;
 
-* Generalizations rooted in anti-blackness (eg. respectability politics) that incite harm towards Black people
+* Generalizations rooted in anti-blackness (ex. respectability politics) that incite harm towards Black people
 
 #### Doxxing
 
@@ -136,6 +136,22 @@ Non-consensual image sharing, or non-consensual intimate image sharing (also cal
 * Sharing someone’s personal nude photos or sexually explicit videos without their permission, revenge porn
 * Posting deepfake porn of someone on the feed
 
+#### Ableism
+
+This category covers content that is harassing, abusive, or dehumanizing content targeting Black people with disabilities that are visible and invisible, including but not limited to:
+
+* Slurs or insults aimed at Black people with disabilites disabled Black people
+* Derogatory memes or tropes
+
+#### Fatphobia
+
+This category covers content that is harassing in nature, abusive, or dehumanizing content targeting fat  people, including but not limited to:
+
+* Slurs or insults aimed at fat people
+* Derogatory memes or tropes
+
+#### <br>
+
 ***
 
 If you see something that doesn’t belong in the Blacksky feeds, report it to [Blacksky Moderation Service](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf):
@@ -143,5 +159,9 @@ If you see something that doesn’t belong in the Blacksky feeds, report it to [
 * Report posts or users for antiblackness or misogynoir
 * Report harassment of Black people anywhere on Bluesky
 * Report content that could otherwise harm Black people (for example, screenshots of racist posts on other platforms)
+
+If you need to appeal any of the moderation decisions, you can do so [here](https://blackskyweb.xyz/about/support/moderation-appeal/).
+
+
 
 Blacksky will continue to work with the community to add new labels and moderation solutions to make the feed and app a safe space for users.

@@ -1,4 +1,4 @@
-# Joining Blacksky Feeds and Moderation Tools
+# Joining Blacksky Feeds
 
 ### Feeds
 
@@ -68,33 +68,3 @@ Click the "+" to join this feed.
 
 ***
 
-### Moderation Tools
-
-#### Labeler
-
-{% stepper %}
-{% step %}
-### Visit the Blacksky profile
-
-Go to the [Blacksky profile](https://bsky.app/profile/blacksky.app) on Bluesky.
-{% endstep %}
-
-{% step %}
-### Subscribe to Labeler
-
-Click Subscribe to Labeler.
-{% endstep %}
-
-{% step %}
-### Default labeling behavior
-
-After subscribing, all posts on Bluesky will be labeled with a warning (Warn setting) by default. You can turn this Off or change the Warn to Hide. Selecting Hide will hide any posts with the label from your feeds.
-{% endstep %}
-{% endstepper %}
-
-Labels applied by the tool include:
-
-* **Misogynoir**: Content that expresses hatred, bias, or prejudice against Black women, specifically where racism, sexism, and/or transphobia intersect. This includes sexual harassment, objectification, and targeted attacks on Black women’s identity or appearance.
-* **Antiblack Harassment**: Content that targets individuals or groups based on their Black identity with derogatory, hateful, or dehumanizing language or imagery. This label is applied to content that perpetuates harmful stereotypes, slurs, or direct harassment aimed at Black individuals or communities.
-
-![A screenshot what the moderation labels look like](<../.gitbook/assets/exampleBskyPostSix 9bd3d0055c6a106dfec29fddf7b49bdf.png>)

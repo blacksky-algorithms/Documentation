@@ -1,7 +1,7 @@
 # Blacksky Community Guidelines
 
 **Effective Date:** January 2025\
-**Last Updated:** October 2025
+**Last Updated:** May 2026
 
 
 
@@ -172,7 +172,7 @@ You can learn more about [Blacksky's moderation practices here](blacksky-moderat
 
 You may appeal most moderation decisions:<br>
 
-* Submit an appeal through the platform
+* Submit an appeal[ here](https://blackskyweb.xyz/about/support/moderation-appeal/)
 * A different moderator will review your appeal
 * We aim to respond within 7 days
 
@@ -251,9 +251,9 @@ These guidelines prioritize serving users over profit motives. They are living d
 
 ### Contact
 
-* Support: [support@blacksky.app](mailto:support@blacksky.app)
-* Moderation Questions: Use the appeals process
-* Community Assembly: https://assembly.blacksky.community
+* Support with account issues: [support@blacksky.app](mailto:support@blacksky.app)
+* Moderation Appeals: [Appeal Form](https://blackskyweb.xyz/about/support/moderation-appeal/)
+* Community Assembly: [https://assembly.blacksky.community](https://assembly.blacksky.community/)
 
 ***
 
