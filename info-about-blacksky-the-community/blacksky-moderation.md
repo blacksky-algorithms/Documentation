@@ -150,7 +150,13 @@ This category covers content that is harassing in nature, abusive, or dehumanizi
 * Slurs or insults aimed at fat people
 * Derogatory memes or tropes
 
-#### <br>
+#### Non-sexual nudity
+
+Non-sexual nudity refers to the act of being unclothed in a practical context without any intent for sexual arousal or stimulation. It includes but isn't limited to breastfeeding, art, or medical settings where nudity is simply the state of being.
+
+#### Sexual Content
+
+Adult content refers to media (videos, images) containing explicit, graphic, or mature themes intended solely for audiences over 18, such as pornography and other content with the intent for sexual arousal or stimulation. <br>
 
 ***
 
