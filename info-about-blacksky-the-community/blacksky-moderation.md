@@ -16,6 +16,12 @@ You have to **subscribe** to the moderation service via Bluesky unless you are u
 
 Other content that doesn't belong in the feed can be reported to the [Blacksky Moderation Service](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf), where a team of moderators will review the content for removal from the feed.
 
+For Blacksky-Only Posts, there is a team of peer moderators from the community who can label posts that go against our labels listed towards the bottom of this document. They cannot remove posts or ban accounts. Peer Moderators are public, and their accounts have a symbol next to their handle so that the community is aware of who the peer moderators are.&#x20;
+
+<img src="../.gitbook/assets/unknown.png" alt="" height="150" width="591">
+
+You can read the [Code of Conduct](peer-moderator-code-of-conduct.md) for Peer Moderators to learn more about the expectations for their contributions to community safety. All moderation decisions can be appealed by completing the [appeal form](https://blackskyweb.xyz/about/support/moderation-appeal/).
+
 Blacksky filters out sexually explicit images based on labels from the official Bluesky Moderation Service (@moderation.bsky.app) for the main Blacksky and Blacksky Trending feeds.
 
 We may label the content, add the user to the Green List, and/or prevent the user from viewing the Blacksky feed.
