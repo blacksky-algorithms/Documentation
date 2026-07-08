@@ -1,6 +1,6 @@
 # Blacksky-Only Posts
 
-Blacksky-Only Posts are permissioned data for Blacksky community members. While these posts are not public, they are not encrypted. These posts can only be viewed by anyone in the Blacksky Community or Blacksky Feed. This also includes users with .[blacksky.app](http://blacksky.app) handles. \
+Blacksky-Only Posts are permissioned data for Blacksky community members. While these posts are not public, they are not encrypted. These posts can only be viewed by anyone in the Blacksky Community or Blacksky Feed. The Blacksky Community includes users with .[blacksky.app](http://blacksky.app) handles. \
 \
 This gives Blacksky community members an opportunity to post within a gated community functionality that is not visible to the larger protocol or the public. Moderation labels, Terms of Service, and community guidelines still apply.<br>
 
