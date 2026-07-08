@@ -10,7 +10,7 @@ You have to **subscribe** to the moderation service via Bluesky unless you are u
 
 <br>
 
-<figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-d2mkddsbmnrgr3domzg5qexf-2025-10-28-11_35_11-edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-d2mkddsbmnrgr3domzg5qexf-2025-10-28-11_35_11-edit.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,15 +18,15 @@ Other content that doesn't belong in the feed can be reported to the [Blacksky M
 
 For Blacksky-Only Posts, there is a team of peer moderators from the community who can label posts that go against our labels listed towards the bottom of this document. They cannot remove posts or ban accounts. Peer Moderators are public, and their accounts have a symbol next to their handle so that the community is aware of who the peer moderators are.&#x20;
 
-<img src="../.gitbook/assets/unknown.png" alt="" height="150" width="591">
+<img src="../../.gitbook/assets/unknown.png" alt="" height="150" width="591">
 
-You can read the [Code of Conduct](peer-moderator-code-of-conduct.md) for Peer Moderators to learn more about the expectations for their contributions to community safety. All moderation decisions can be appealed by completing the [appeal form](https://blackskyweb.xyz/about/support/moderation-appeal/).
+You can read the [Code of Conduct](../../peer-moderator-code-of-conduct.md) for Peer Moderators to learn more about the expectations for their contributions to community safety. All moderation decisions can be appealed by completing the [appeal form](https://blackskyweb.xyz/about/support/moderation-appeal/).
 
 Blacksky filters out sexually explicit images based on labels from the official Bluesky Moderation Service (@moderation.bsky.app) for the main Blacksky and Blacksky Trending feeds.
 
 We may label the content, add the user to the Green List, and/or prevent the user from viewing the Blacksky feed.
 
-![A screenshot of the moderation list called "Green List"](<../.gitbook/assets/exampleBskyPostSeven 692cb9d695e50d1c3d1f362f10db142d.png>)&#x20;
+![A screenshot of the moderation list called "Green List"](<../../.gitbook/assets/exampleBskyPostSeven 692cb9d695e50d1c3d1f362f10db142d.png>)&#x20;
 
 {% hint style="warning" %}
 Do not publicly “flag” posts (for example, by reposting them or responding in a reply). Harassers can use that public engagement to target you later or escalate conflict. Use the [Blacksky Moderation Service](https://blacksky.community/profile/did:plc:d2mkddsbmnrgr3domzg5qexf) to report harassers to ensure confidentiality and to protect your peace on Blacksky and Bluesky.
@@ -36,7 +36,7 @@ The moderation service gives you a discreet way to report harmful content and al
 
 Any accounts blocked by “Banned From TV” will see the following when trying to load any of the Blacksky feeds:
 
-![](<../.gitbook/assets/exampleBskyPostThree a7e42296a8fcb2ef2487e96351c5f985.png>)
+![](<../../.gitbook/assets/exampleBskyPostThree a7e42296a8fcb2ef2487e96351c5f985.png>)
 
 ***
 
@@ -46,13 +46,13 @@ Any accounts blocked by “Banned From TV” will see the following when trying 
 Labels provide additional filtering. There are three options for how you choose to view labeled content on your feed: off, warn, or hide.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-moderation-blacksky-app-2026-05-27-15_07_29-edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-moderation-blacksky-app-2026-05-27-15_07_29-edit.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Our Labeler service cannot delete content from the network; instead, moderation labels (ex., anti-black harassment) are attached to content or an account.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-bjl6uqhvsyhje7rksmami3js-2025-10-23-12_44_26 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-bjl6uqhvsyhje7rksmami3js-2025-10-23-12_44_26 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Subscriptions to labelers are private –  other users will not know you are subscribed.&#x20;

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Joining Blacksky Feeds
 
 ### Feeds
@@ -23,7 +27,7 @@ This is an example of a post
 ```
 {% endcode %}
 
-![A screenshot of post on Bluesky including text that states "This is an example of a post", and "#AddToBlacksky". This is to showcase how a user can get their posts included in the Blacksky feed.](<../.gitbook/assets/exampleBskyPost 37f83cf61510b800fdbdb91a487b0c19.png>)
+![A screenshot of post on Bluesky including text that states "This is an example of a post", and "#AddToBlacksky". This is to showcase how a user can get their posts included in the Blacksky feed.](<.gitbook/assets/exampleBskyPost 37f83cf61510b800fdbdb91a487b0c19.png>)
 
 #### Leaving a Blacksky Feed
 
@@ -36,7 +40,7 @@ This is another example post
 ```
 {% endcode %}
 
-![A screenshot of post on Bluesky including text that states "This is another example post", and "#RemoveFromBlacksky". This is to showcase how a user can get their posts included in the Blacksky feed](<../.gitbook/assets/exampleBskyPostTwo 3976461a7830b3d8948d29d79cc47671.png>)
+![A screenshot of post on Bluesky including text that states "This is another example post", and "#RemoveFromBlacksky". This is to showcase how a user can get their posts included in the Blacksky feed](<.gitbook/assets/exampleBskyPostTwo 3976461a7830b3d8948d29d79cc47671.png>)
 
 #### Pinning a Feed
 

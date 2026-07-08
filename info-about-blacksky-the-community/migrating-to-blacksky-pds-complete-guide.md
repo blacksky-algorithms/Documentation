@@ -5,7 +5,7 @@ description: >-
   use Blacksky services without migrating.
 ---
 
-# Migrating to Blacksky PDS: Complete Guide
+# Migrate to Blacksky
 
 ### About Blacksky
 
@@ -15,9 +15,9 @@ Blacksky is communal infrastructure for the atproto network, built on the vision
 
 Also note that new users without an existing Bluesky or Blacksky account can easily sign up directly at [https://blacksky.community](https://blacksky.community/) to be hosted on one of our PDSs. The remainder of this document discusses migrating an existing account hosted elsewhere (Bluesky, another 3rd-party PDS, etc.)
 
-<figure><img src=".gitbook/assets/Sign_In_Blacksky .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sign_In_Blacksky .png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Create_Account_Blacksky .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Create_Account_Blacksky .png" alt=""><figcaption></figcaption></figure>
 
 ### Who Can Use Blacksky Services?
 
@@ -27,9 +27,9 @@ Also note that new users without an existing Bluesky or Blacksky account can eas
 
 ⚠️ **Warning**: Anyone else using a blacksky.app handle will receive a warning at first and then a suspension.
 
-#### Alternative PDSs for Everyone
+#### Domains for Everyone
 
-Blacksky Algorithms also operates two other PDSs that are **open to anyone**:
+Blacksky Algorithms also operates two other PDS domains that are **open to anyone**:
 
 * **myatproto.social** - Open to all
 * **cryptoanarchy.network** - Open to all
@@ -71,7 +71,7 @@ If you want to move your account hosting to one of Blacksky's PDSs, follow these
 
 * Moves your account hosting from elsewhere (like Bluesky) to Blacksky (or another PDS)
 
-<figure><img src=".gitbook/assets/screencapture-blackskymunity-profile-did-plc-w4xbfzo7kqfes5zb7r6qv3rw-post-3mh6kr3w2o22a-2026-03-17-11_58_32-edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-w4xbfzo7kqfes5zb7r6qv3rw-post-3mh6kr3w2o22a-2026-03-17-11_58_32-edit.png" alt=""><figcaption></figcaption></figure>
 
 * Puts you under Blacksky's [Terms of Service](https://blackskyweb.xyz/about/support/tos/) and [Privacy Policy](https://blackskyweb.xyz/about/support/privacy-policy/)
 * **You keep all your followers, follows, posts, and data**
@@ -114,7 +114,7 @@ If you want to switch between handle options (blacksky.app, myatproto.social, cr
 * Navigate to settings
 * Change your handle to any of the available options or a domain you own
 
-<figure><img src=".gitbook/assets/change_handle_Blacksky .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/change_handle_Blacksky .png" alt=""><figcaption></figcaption></figure>
 
 **Fix Old Account Issues:**&#x20;
 
@@ -124,7 +124,7 @@ If people can't reply to you after migration:
 2. Log in with your **old** account credentials
 3. Deactivate the old account properly
 
-<figure><img src=".gitbook/assets/screencapture-pdsmoover-turnoff-html-2025-10-09-11_25_50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-pdsmoover-turnoff-html-2025-10-09-11_25_50.png" alt=""><figcaption></figcaption></figure>
 
 **Fix Missing Images**
 
@@ -133,7 +133,7 @@ If images from before your migration aren't showing or you're having issues edit
 1. Visit [missing.pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
 2. Follow the instructions to backfill your images
 
-<figure><img src=".gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
 
 **Restore Backups and other PDS Issues:**
 
@@ -141,7 +141,7 @@ You can now use PDS Moover to take care of the items listed above and also resto
 
 {% embed url="https://pdsmoover.com/moover/blacksky.app" %}
 
-<figure><img src=".gitbook/assets/atproto_images.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/atproto_images.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -159,14 +159,14 @@ In AT Protocol, blobs (Binary Large OBjects) are your media (images, video, etc.
 
 * Use [missing.pdsmoover.com](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app) to fix the image backfill
 
-<figure><img src=".gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-missing-pdsmoover-2025-10-09-11_29_35.png" alt=""><figcaption></figcaption></figure>
 
 #### People can't reply to your posts
 
 * Visit [pdsmoover.com/turnoff.html](https://go.blacksky.community/redirect?u=https%3A%2F%2Fpdsmoover.com%2Fmoover%2Fblacksky.app)
 * Deactivate your old account using old credentials
 
-<figure><img src=".gitbook/assets/screencapture-pdsmoover-turnoff-html-2025-10-09-11_25_50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-pdsmoover-turnoff-html-2025-10-09-11_25_50.png" alt=""><figcaption></figcaption></figure>
 
 #### Getting message to reactivate my account
 

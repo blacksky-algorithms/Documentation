@@ -14,7 +14,7 @@ Here's a [link to a Bluesky blog](https://bsky.social/about/blog/02-22-2024-open
 
 <summary>How do I add myself to the Blacksky Feed?</summary>
 
-See [Joining a Blacksky Feed](info-about-blacksky-the-community/joining-blacksky-feeds-and-moderation-tools.md#Joining-a-Blacksky-Feed).
+See [Joining a Blacksky Feed](joining-blacksky-feeds-and-moderation-tools.md#Joining-a-Blacksky-Feed).
 
 </details>
 
@@ -22,7 +22,7 @@ See [Joining a Blacksky Feed](info-about-blacksky-the-community/joining-blacksky
 
 <summary>How do I remove myself from the Blacksky Feed or Starter Pack?</summary>
 
-See [Leaving a Blacksky Feed](info-about-blacksky-the-community/joining-blacksky-feeds-and-moderation-tools.md#Leaving-a-Blacksky-Feed).
+See [Leaving a Blacksky Feed](joining-blacksky-feeds-and-moderation-tools.md#Leaving-a-Blacksky-Feed).
 
 </details>
 
@@ -35,7 +35,7 @@ To report a post:
 1. Click the "Report Post" (…) icon on the bottom-right corner of the post.
 2. For "Why should this post be reviewed?", select a reason. Currently, the only reasons that will allow you to select Blacksky as the moderator are: "Unwanted Sexual Content", "Anti-Social Behavior", "Illegal and Urgent", and "Other".
 3. For "Select Moderation Service", select "Blacksky Moderation".
-5. Click "Submit Report". If you selected "Other" as your reason, always submit a comment with details so the moderation team has context as to why the post is being reported.
+4. Click "Submit Report". If you selected "Other" as your reason, always submit a comment with details so the moderation team has context as to why the post is being reported.
 
 {% hint style="info" %}
 If you'd like to also send a report to additional services (for example, the Bluesky Moderation Service), repeat these steps and select the appropriate moderation service from the list of options.
