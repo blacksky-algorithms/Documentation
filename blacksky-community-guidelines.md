@@ -1,7 +1,7 @@
 # Blacksky Community Guidelines
 
 **Effective Date:** January 2025\
-**Last Updated:** May 2026
+**Last Updated:** July 2026
 
 
 
@@ -102,6 +102,16 @@ We have zero tolerance for hate speech and discrimination:<br>
 * Non-consensual intimate imagery
 * Sexual exploitation or abuse
 * Extreme violence or gore shared for shock value
+
+#### Child Sexual Abuse and Exploitation (CSAE)
+
+Blacksky has a zero-tolerance policy toward child sexual abuse and exploitation ("CSAE") and child sexual abuse material ("CSAM"). For the purposes of this policy, a "minor" is any person under the age of 18, regardless of the minimum age required to use the Services.
+
+You may not use the Services to create, upload, post, share, distribute, solicit, facilitate access to, or otherwise transmit any content or conduct that sexualizes, exploits, endangers, or otherwise harms a minor. This prohibition includes, without limitation, CSAM, the grooming or solicitation of minors, sextortion, and any attempt to engage a minor in sexual activity.
+
+Blacksky takes active measures to prevent and address CSAE on the Services, including content moderation, our Moderation labeler, and prompt review of user reports. Users can report suspected CSAE through our in-app reporting tools or by contacting us at support@blacksky.app. All such reports are reviewed.
+
+Where a violation involves content or accounts within Blacksky's control, we will remove the content and terminate the offending account or accounts. Blacksky reports apparent CSAM to the National Center for Missing & Exploited Children ("NCMEC") through its CyberTipline and cooperates with law enforcement as required by applicable law. Because the Services operate on the AT Protocol, some content may be hosted on Third-Party Services outside Blacksky's control; in those cases we will take the actions available to us, including applying moderation labels and referring reports to the appropriate parties.
 
 ***
 
