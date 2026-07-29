@@ -45,9 +45,9 @@ On Android, there's no separate app to install. If you are on your phone, you ca
 
 **Steps (on phone)**
 
-1. Click [this link](https://play.google.com/store/apps/details?id=community.blacksky.app) for joining on your phone
-2. You should be redirected to Blacksky’s Play Store listing
-3. Tap Install (or Update). The app downloads like any normal app
+1. Click [this link](https://play.google.com/store/apps/details?id=community.blacksky.app) for joining on your phone.
+2. You should be redirected to Blacksky’s Play Store listing.
+3. Tap Install (or Update). The app downloads like any normal app.
 
 **Steps (on desktop)**
 
