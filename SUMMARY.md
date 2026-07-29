@@ -6,6 +6,7 @@
   * [Create an account](info-about-blacksky-the-community/create-an-account.md)
   * [Migrate to Blacksky](info-about-blacksky-the-community/migrating-to-blacksky-pds-complete-guide.md)
   * [The Blacksky Web App](info-about-blacksky-the-community/the-blacksky-web-app.md)
+  * [How to Join the Beta](info-about-blacksky-the-community/how-to-join-the-beta.md)
 * [Using Blacksky](using-blacksky/README.md)
   * [Account Management](using-blacksky/account-management/README.md)
     * [Logging in](using-blacksky/account-management/logging-in.md)
