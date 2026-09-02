@@ -46,7 +46,7 @@ Any accounts blocked by “Banned From TV” will see the following when trying 
 Labels provide additional filtering. There are three options for how you choose to view labeled content on your feed: off, warn, or hide.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-moderation-blacksky-app-2026-05-27-15_07_29-edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-moderation-blacksky-app-2026-09-02-11_01_42-edit.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Our Labeler service cannot delete content from the network; instead, moderation labels (ex., anti-black harassment) are attached to content or an account.
@@ -105,6 +105,13 @@ Misogynoir is the intersection of anti-black racism and sexism targeting Black w
 
 * Gendered slurs or insults aimed at Black women
 * Tropes like the “angry Black woman,” hypersexualization, or remarks that Black women are undesirable because they are Black
+
+#### Digital Blackface
+
+Digital Blackface is a form of anti-Black violence where a non-Black user impersonates a Black person.&#x20;
+
+* Creating a Blacksky account using the .blacksky.app handle as a non-member of the Black diaspora
+* Using photos, language, or content to represent yourself as a Black person(s)&#x20;
 
 #### **Violence**
 
