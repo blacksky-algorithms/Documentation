@@ -46,7 +46,7 @@ Any accounts blocked by “Banned From TV” will see the following when trying 
 Labels provide additional filtering. There are three options for how you choose to view labeled content on your feed: off, warn, or hide.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-moderation-blacksky-app-2026-09-02-11_01_42-edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-blackskymunity-profile-did-plc-d2mkddsbmnrgr3domzg5qexf-2026-09-09-15_05_33-edit.png" alt="A screenshot of the Blacksky moderation labeler on the app. The screenshot contains the title, definition, and the option to turn off or warn or hide content that may fall under these categories. The categories for this image are listed below in text."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Our Labeler service cannot delete content from the network; instead, moderation labels (ex., anti-black harassment) are attached to content or an account.
@@ -136,7 +136,7 @@ Content that expresses statements that are rooted in white supremacy and anti-bl
 
 Statements that reinforce ideas of white supremacy or anti-black rhetoric that **do not** fall under harassment. This also includes internalized anti-blackness that is harmful in nature.&#x20;
 
-* Generalizations rooted in anti-blackness (ex. respectability politics) that incite harm towards Black people
+* Generalizations rooted in anti-blackness (ex., respectability politics) that incite harm towards Black people
 
 #### Doxxing
 
@@ -148,6 +148,13 @@ Non-consensual image sharing, or non-consensual intimate image sharing (also cal
 
 * Sharing someone’s personal nude photos or sexually explicit videos without their permission, revenge porn
 * Posting deepfake porn of someone on the feed
+
+#### Normalization of sexual violence
+
+Content that seeks to promote, validate, or in any other way normalize sexually violent acts which include, but aren’t limited to, grooming, (spousal) sexual assault, sexual exploitation, trafficking, revenge porn, and sexual abuse. This may include, but is not limited to:
+
+* Content that seeks to place blame on victims of grooming
+* Content that glorifies sexual abuse
 
 #### Ableism
 
