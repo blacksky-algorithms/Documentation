@@ -4,7 +4,7 @@ Blacksky-Only Posts are permissioned data for Blacksky community members. While 
 \
 This gives Blacksky community members an opportunity to post within a gated community functionality that is not visible to the larger protocol or the public. Moderation labels, Terms of Service, and community guidelines still apply.<br>
 
-1. Log into blacksky.community&#x20;
+1. Log into blacksky.community or use our mobile app.
 2. Go to "Post" as you normally would&#x20;
 
 <img src="../../.gitbook/assets/unknown (1).png" alt="" height="272" width="508">

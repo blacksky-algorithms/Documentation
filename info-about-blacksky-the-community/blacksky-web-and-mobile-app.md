@@ -15,14 +15,14 @@ description: How and where to access our web and mobile apps.
 Download our mobile app [here](https://play.google.com/store/apps/details?id=community.blacksky.app).
 {% endtab %}
 
-{% tab title="Apple Mobile App" %}
+{% tab title="iOS Mobile App" %}
 Download our mobile app [here](https://apps.apple.com/us/app/blacksky-community/id6776276281).
 {% endtab %}
 {% endtabs %}
 
 
 
-## What is the Blacksky Web App?&#x20;
+### What is the Blacksky Web App?&#x20;
 
 [Blacksky.community ](https://blacksky.community)is a web app (can only be accessed via a web browser) that assembles all the data on the network.&#x20;
 
@@ -30,7 +30,7 @@ Download our mobile app [here](https://apps.apple.com/us/app/blacksky-community/
 
 ***
 
-## How to access the Blacksky Web App?
+### How to access the Blacksky Web App?
 
 Go to [Blacksky.community](https://blacksky.community/) and log in or create an account. Once you are logged in, you will be able to immediately access your account, feeds, etc.&#x20;
 
@@ -42,7 +42,7 @@ Currently, there may be pages that do not have blobs (profile images) and full f
 
 ***
 
-## Features
+### Features
 
 **Main Features:**
 
@@ -51,9 +51,7 @@ Currently, there may be pages that do not have blobs (profile images) and full f
 * If your account is banned or suspended by Bluesky, our web app automatically copies that moderation decision, but if you submit an [appeal](https://blackskyweb.xyz/about/support/moderation-appeal/), we will investigate the ban, and if it does not go against our TOS, you will regain immediate access to your account.&#x20;
 * If you receive a label from Bluesky moderation, such as ‘rude’ or ‘sexual content’, it will appear on our web app, but you can appeal it [here](https://blackskyweb.xyz/about/support/moderation-appeal/), and we will investigate it against our own moderation and remove the label from your account via our web app (if you are on our PDS).&#x20;
 
-\
-**Things to Remember**
-----------------------
+### &#x20;**Things to Remember**
 
 #### **Bookmarks, Drafts, and Mutes**
 

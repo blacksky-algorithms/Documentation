@@ -13,7 +13,7 @@ Blacksky is communal infrastructure for the atproto network, built on the vision
 
 **Important**: Blacksky as a community exists across multiple PDSs (Personal Data Servers) — this is intentional and by design.&#x20;
 
-Also note that new users without an existing Bluesky or Blacksky account can easily sign up directly at [https://blacksky.community](https://blacksky.community/) to be hosted on one of our PDSs. The remainder of this document discusses migrating an existing account hosted elsewhere (Bluesky, another 3rd-party PDS, etc.)
+Also note that new users without an existing Bluesky or Blacksky account can easily sign up directly at [https://blacksky.community](https://blacksky.community/) or sign up via our [mobile app ](blacksky-web-and-mobile-app.md)to be hosted on one of our PDSs. The remainder of this document discusses migrating an existing account hosted elsewhere (Bluesky, another 3rd-party PDS, etc.)
 
 <figure><img src="../.gitbook/assets/Sign_In_Blacksky .png" alt=""><figcaption></figcaption></figure>
 
@@ -58,6 +58,13 @@ You don't need to migrate your account to use Blacksky's features:
 * Gets you around age verification and geolocation restrictions
 * Blacksky moderation and feeds are built in
 
+**Option 2: Use the Mobile App**
+
+* Download the [mobile app](blacksky-web-and-mobile-app.md) for your respective device.&#x20;
+* Log in with your existing account
+* Gets you around age verification and geolocation restrictions
+* Blacksky moderation and feeds are built in&#x20;
+
 **Option 2: Use the Mobile App** When logging into the official Bluesky app:
 
 1. Change the "Hosting Provider" (above username field) to `https://blacksky.app`
@@ -79,7 +86,7 @@ If you want to move your account hosting to one of Blacksky's PDSs, follow these
 
 #### Migration Tool:
 
-You can use [**move.blacksky.community**](https://move.blacksky.community/) to migrate which was built and is maintained by the Blacksky team
+You can use [**move.blacksky.community**](https://move.blacksky.community/) to migrate, which was built and is maintained by the Blacksky team
 
 Here is a walk-through video:&#x20;
 
@@ -168,7 +175,7 @@ In AT Protocol, blobs (Binary Large OBjects) are your media (images, video, etc.
 
 <figure><img src="../.gitbook/assets/screencapture-pdsmoover-turnoff-html-2025-10-09-11_25_50.png" alt=""><figcaption></figcaption></figure>
 
-#### Getting message to reactivate my account
+#### Getting a message to reactivate my account
 
 * Your account migration hasn't completed if you didn't enter the PLC token into the migration tool you were using. Go back and complete the migration.
 
@@ -179,10 +186,10 @@ Make sure your current email in the Bluesky app is verified and that you have ac
 #### Migration tool showing other errors (unable to resolve handle)
 
 * Make sure you typed handles manually (no copy/paste)
-* Check for typos in old or new handle
+* Check for typos in the old or new handle
 * Old handle format: `name.bsky.social`
 * New handle format: `name.blacksky.app` (or myatproto.social, cryptoanarchy.network)
-* Try using incognito on Google Chrome using a laptop/desktop machine
+* Try using incognito on Google Chrome on a laptop/desktop machine
 
 #### Need more help?
 
@@ -193,6 +200,7 @@ Make sure your current email in the Bluesky app is verified and that you have ac
 #### Blacksky Features
 
 * **Web App**: [blacksky.community](https://blacksky.community/)
+* [**Mobile App**](blacksky-web-and-mobile-app.md)
 * **Built-in Moderation**: Blacksky's moderation is baked into the web app
 * **Core Feeds**: Blacksky feeds are default
 * **Privacy**: No public list of Blacksky members, building private spaces
