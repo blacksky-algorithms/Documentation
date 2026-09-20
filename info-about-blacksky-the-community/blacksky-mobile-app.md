@@ -1,8 +1,9 @@
 ---
-description: A step-by-step guide for iPhone (TestFlight) and Android (Google Play) testers
+description: How to acess the Blacksky mobile apps.
+hidden: true
 ---
 
-# How to Join the Beta
+# Blacksky Mobile App
 
 {% hint style="info" icon="down-from-dotted-line" %}
 The mobile app, once you go through the steps below for your particular device, should look like the image below.
